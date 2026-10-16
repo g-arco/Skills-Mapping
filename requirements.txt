@@ -1,0 +1,10 @@
+pandas>=1.5
+numpy>=1.24
+scikit-learn>=1.2
+spacy>=3.5
+nltk>=3.8
+sentence-transformers>=2.2
+pdfminer.six>=20240524
+swat>=1.9
+matplotlib>=3.7
+seaborn>=0.12

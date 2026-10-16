@@ -1,0 +1,34 @@
+SUMMARY
+
+Results-driven data professional with 7 years of experience in analytics, data science, and technical project leadership. Passionate about translating business problems into data-driven solutions using Python, R, SQL, and cloud technologies.
+
+EXPERIENCE
+
+Senior Data Scientist, Acme Analytics, 2022 - Present
+- Led cross-functional teams to build predictive models for customer churn, demand forecasting, and pricing optimization.
+- Designed end-to-end machine learning pipelines using Python, scikit-learn, and TensorFlow.
+- Collaborated with stakeholders to define KPIs, visualize results in Tableau, and deliver executive reports.
+
+Data Analyst, Nova Solutions, 2018 - 2022
+- Performed exploratory data analysis, data cleansing, and ETL automation using Python and SQL.
+- Developed dashboards in Power BI and Tableau to track sales performance, marketing ROI, and operational efficiency.
+- Contributed to data governance, documentation, and process improvement initiatives.
+
+EDUCATION
+
+Master of Science in Data Science, University of Central City, 2018
+Bachelor of Science in Statistics, State University, 2016
+
+SKILLS
+
+Technical Skills:
+Python, R, SQL, SAS, machine learning, natural language processing (NLP), data visualization, Tableau, Power BI, AWS, Azure, cloud analytics, TensorFlow, scikit-learn, pandas, numpy, data engineering.
+
+Professional Skills:
+Project management, agile methodologies, stakeholder communication, problem solving, leadership, teamwork, presentation, business analysis.
+
+CERTIFICATIONS
+
+- Certified Analytics Professional (CAP)
+- AWS Certified Data Analytics – Specialty
+- SAS Certified Advanced Analytics Professional

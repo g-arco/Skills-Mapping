@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "SkillsMappingApp",
+    "slug": "skills-mapping-app",
+    "platforms": ["ios", "android", "web"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "sdkVersion": "54.0.0",
+    "userInterfaceStyle": "automatic"
+  }
+}

@@ -1,0 +1,19 @@
+data/
+
+# Python environments, caches, and bytecode
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Expo / React Native generated and installed files
+mobile/node_modules/
+mobile/.expo/
+mobile/dist/
+
+# Generated charts and temporary test artifacts
+outputs/figures/
+/temp_pipeline_test.py
+/temp_text_test.py
+/temp_upload_test.py
+/test_unique_courses_considered.csv
